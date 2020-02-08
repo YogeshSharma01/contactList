@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+a{
+    display: block;
+}
+.button{
+    /* display: block; */
+    /* width: 20px; */
+    width: 100px;
+    height: 35px;
+
+}
+.box{
+    display: flex;
+    background-color: cadetblue;
+    border-block-end: 5px;
+}
+p{
+    margin: 14px;
+}
+.delete{
+    padding-top: 12px;
+}
